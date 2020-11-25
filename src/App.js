@@ -1,10 +1,19 @@
-import './App.css';
+import React from 'react';
+
+//Components
+import ComicRating from './components/ComicRating';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div>
-     <h1>Hola</h1>
-    </div>
+    <>
+      <Header />
+      <div className="container-app container mx-auto px-4 mt-10 text-center">
+        <ComicRating />
+      </div>
+      <Footer />
+    </>
   );
 }
 

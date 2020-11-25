@@ -1,6 +1,8 @@
 /* Fonts */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;1,400;1,500;1,600&display=swap');
 
 /* Base */
 
@@ -10261,6 +10263,10 @@ video {
 
 .clear-none{
   clear: none;
+}
+
+.font-rockSalt{
+  font-family: Rock Salt;
 }
 
 .font-montserrat{
@@ -28597,6 +28603,10 @@ video {
     clear: none;
   }
 
+  .sm\:font-rockSalt{
+    font-family: Rock Salt;
+  }
+
   .sm\:font-montserrat{
     font-family: Montserrat;
   }
@@ -46899,6 +46909,10 @@ video {
 
   .md\:clear-none{
     clear: none;
+  }
+
+  .md\:font-rockSalt{
+    font-family: Rock Salt;
   }
 
   .md\:font-montserrat{
@@ -65205,6 +65219,10 @@ video {
     clear: none;
   }
 
+  .lg\:font-rockSalt{
+    font-family: Rock Salt;
+  }
+
   .lg\:font-montserrat{
     font-family: Montserrat;
   }
@@ -83507,6 +83525,10 @@ video {
 
   .xl\:clear-none{
     clear: none;
+  }
+
+  .xl\:font-rockSalt{
+    font-family: Rock Salt;
   }
 
   .xl\:font-montserrat{

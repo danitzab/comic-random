@@ -2,6 +2,7 @@ module.exports = {
   purge: [],
   theme: {
     fontFamily: {
+      rockSalt: ['Rock Salt'],
       montserrat: ['Montserrat'],
     },
     extend: {
