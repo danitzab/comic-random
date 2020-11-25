@@ -2,7 +2,7 @@
 
 Una aplicación desplegada en **Vercel** que permite calificar comics y guardar las calificaciones en el **localStorage** ([https://comics-ranking.vercel.app/](https://comics-ranking.vercel.app/))
 
-## Teconogias Usadas
+## Teconologías Usadas
 
 - React
 - Tailwindcss
